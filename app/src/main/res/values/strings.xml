@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Movies Sky</string>
+    <string name="message_erro_request">Ops... Algo de inesperado aconteceu!</string>
 </resources>
